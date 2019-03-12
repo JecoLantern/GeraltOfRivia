@@ -1,0 +1,19 @@
+{
+  "name": "geraltofrivia",
+  "version": "1.0.0",
+  "description": "Get new armor set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JecoLantern/GeraltOfRivia.git"
+  },
+  "author": "Jeric B. Ayonke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JecoLantern/GeraltOfRivia/issues"
+  },
+  "homepage": "https://github.com/JecoLantern/GeraltOfRivia#readme"
+}
